@@ -1,0 +1,61 @@
+.logo{
+    text-decoration: none;
+    font-size: 30px;
+    color: white !important;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-style: italic;
+    
+}
+.login-information img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+/* .login-information{
+    position: relative;
+   
+}
+.login-information p{
+    position: absolute;
+    overflow: hidden;
+    left: -500px;
+} */
+.log-btn{
+    background-color: transparent;
+    display: flex;
+    border: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+.logo-img{
+    height: 60px;
+    width: 150px;
+}
+.link-item{
+    padding-right: 20px;
+    color: white;
+    transition: all ease-in-out 1s;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+.link-item:hover{
+    color: red;
+}
+.banner-img{
+    height: 400px !important;
+    
+    
+}
+
+.navbar-dark .navbar-toggler {
+    color:black !important;
+    border-color: black !important;
+}
+.navbar-dark .navbar-toggler-icon {
+   background-image: url(../../../images/list.png) !important;
+}

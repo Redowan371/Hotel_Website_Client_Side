@@ -1,0 +1,38 @@
+.login-area{
+    background-image: url('../../images/google2.jpg');
+    background-position: center;
+    height: 87vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.title-text{
+    color: #fff;
+}
+.login-btn{
+    position: absolute;
+    top: 80%;
+    left: 45%;
+}
+.btn-img{
+    height: 30px;
+    width: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .login-btn{
+    position: absolute;
+    top: 65%;
+    left: 25%;
+
+  }
+}

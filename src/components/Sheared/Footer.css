@@ -1,0 +1,30 @@
+.footer{
+    background: black;
+    color: white;
+    text-align:center;
+}
+.footer-input input{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #eee;
+}
+.footer hr{
+    color: white;
+    border: 2px solid #eee;
+}
+.footer-btn{
+    margin-bottom: 5px;
+    background-color: #F59999;
+    color: #000;
+    font-size: 18px;
+    font-weight: 500;
+    border: 2px solid #F59999;
+    transition: all ease-in-out .5s;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+.footer-btn:hover{
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #F59999;
+}
